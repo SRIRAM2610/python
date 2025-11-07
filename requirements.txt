@@ -1,0 +1,4 @@
+# core FastAPI app
+fastapi
+mangum
+uvicorn
